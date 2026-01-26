@@ -30,3 +30,4 @@ Esta tese e seus filtros operacionais são ancorados nas seguintes fontes de aut
 * **TWENGE, J. M. (2017).** *iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy--and Completely Unprepared for Adulthood*. New York: Atria Books.
 * **RESNICK, M. (2017).** *Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play*. Cambridge, MA: MIT Press.
 
+> **Status Operacional 2026:** Roadmap STRAT-01 Ativado.
