@@ -14,6 +14,9 @@ O mundo tentará inundar seu hardware mental com 69% de ruído. Este repositóri
 
 ### 🛡️ Licença GNU GPLv3
 Este conhecimento é livre para ser evoluído, mas proibido de ser escravizado. Ele pertence à geração que terá a coragem de ser soberana.
+> ### ⚠️ ALERTA DE SISTEMA: SOBERANIA COGNITIVA
+> Operando em **Zenit do Flow**. Este código neutraliza o ruído geracional (144p) para estabelecer a Engenharia da Antecipação em **4K**. O suporte via GitHub Sponsors é o combustível para essa infraestrutura.
+---
 
 ---
 *Assinado: Arquiteto Jean Laris — O Guardião do Sinal.*
