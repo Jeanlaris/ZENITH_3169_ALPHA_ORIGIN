@@ -22,3 +22,16 @@ entrada = [
 ]
 
 print(calcular_proporcao_69_31(entrada))
+
+# --- MOTOR DE EXPANSÃO ALANTEC ---
+class MenteCalibrada:
+    def __init__(self):
+        self.versao = "4K"
+        self.status = "Zenit do Flow"
+
+    def acionar_m1(self):
+        print(f"[{self.status}] M1 Ativado. Sinal Estabilizado.")
+
+if __name__ == "__main__":
+    motor = MenteCalibrada()
+    motor.acionar_m1()
