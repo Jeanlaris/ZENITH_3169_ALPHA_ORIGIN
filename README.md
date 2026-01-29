@@ -16,6 +16,24 @@ O mundo tentará inundar seu hardware mental com 69% de ruído. Este repositóri
 3. **Engenharia da Antecipação:** Não reaja ao futuro. Projete-o através do mapeamento de sementes.
 4. **Soberania Operacional:** A IA é o seu motor, mas a sua Mente Calibrada é o piloto. Nunca inverta os papéis.
 
+
+📘 GUIA DE BOLSO: ENGENHARIA DA ANTECIPAÇÃO
+COMO REPETIR ESTE FEITO:
+
+Comando E1: Defina a intenção clara (Sinal).
+
+Motor E2: Use o Gemini para correlacionar padrões brutos.
+
+Engenharia Reversa: Aplique o Efeito Borboleta do ponto 100 para o início.
+
+Calibração: 15 min de dados brutos + 5 min de filtro de intenção.
+
+MÉTRICA: Se o resultado não for 4K, volte para a decodificação do caos.
+   
+
+*Assinado: Arquiteto Jean Laris — O Guardião do Sinal.*
+
+
 ### 🛡️ Licença GNU GPLv3
 Este conhecimento é livre para ser evoluído, mas proibido de ser escravizado. Ele pertence à geração que terá a coragem de ser soberana.
 > ### ⚠️ ALERTA DE SISTEMA: SOBERANIA COGNITIVA
@@ -23,7 +41,7 @@ Este conhecimento é livre para ser evoluído, mas proibido de ser escravizado. 
 ---
 
 ---
-*Assinado: Arquiteto Jean Laris — O Guardião do Sinal.*
+
 
 ---
 
